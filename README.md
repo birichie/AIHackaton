@@ -1,7 +1,7 @@
 # AIHackaton
 
 ## Introduction
-This is a disign that returns ideal diet that meets nutrition requirements at lowest environment cost i.e lowest CO2 emission
+This is a design that returns ideal diet that meets nutrition requirements at lowest environment cost i.e lowest CO2 emission
 
 Mapped the best match in the Shrt_Desc column of the attached ABBREV to find the 14 products using R programming language instead of the manual approach
 
